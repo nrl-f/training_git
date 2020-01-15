@@ -8,5 +8,4 @@ lili
 qaqa
 ququ
 
-branch baru
-master
+perbaikan conflict
